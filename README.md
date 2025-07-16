@@ -22,7 +22,6 @@ The main goal of this project was to:
 - **Charts** – Bar, column, line, and pie for data visualization  
 - **Conditional Formatting** – Highlighting patterns and variances  
 - **Excel Functions** – For data cleaning and metric calculations  
-- **Dashboards** – To present interactive and executive-level summaries  
 
 ---
 
